@@ -1,21 +1,20 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bala Murugan 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 ## 🚀 About Me
 
-I’m a passionate **Computer Science student** with a keen interest in software development, data science, and mobile app development. I'm currently in the final year of my BSc in Computer Science.
+I’m a passionate **Computer Science student** with a keen interest in software development, data science, and mobile app development. I'm currently in the Pre-final year of my BE in Computer Science and Engineering.
 
 - 🌱 I’m currently learning **Android Development** and **Machine Learning**.
 - 💼 I’m looking to collaborate on open-source projects and innovative tech startups.
-- 💬 Ask me about **Python**, **Java**, **Android**, **Firebase**, and **Google Maps API**.
+- 💬 Ask me about **Python**, **C**, **Android**, **Firebase**, and **Google Maps API**.
 - 📫 How to reach me: [balamuruganmbg4@gmail.com](mailto:balamuruganmbg4@gmail.com)
 - ⚡ Fun fact: I love solving complex algorithms and playing chess.
 
 ## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
