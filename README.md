@@ -38,9 +38,9 @@ I’m a passionate **Computer Science student** with a keen interest in software
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/balamurugan-ravikumar-02a02725b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Personal Website](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
+[![Personal Website](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=web&logoColor=white)]([https://yourwebsite.com](https://balamuruganravikumar1.web.app/))
 
 ## 📚 Latest Blog Posts
 
@@ -52,9 +52,9 @@ I’m a passionate **Computer Science student** with a keen interest in software
 
 ## 📂 Recent Projects
 
-- 🚀 [Project 1 Name](https://github.com/yourusername/project1) - Short description.
-- 🔥 [Project 2 Name](https://github.com/yourusername/project2) - Short description.
-- 🌟 [Project 3 Name](https://github.com/yourusername/project3) - Short description.
+- 🚀 [Real-Time Vehicle Tracking System](https://github.com/yourusername/project1) - Short description.
+- 🔥 [Self Monitoring ECG Application](https://github.com/yourusername/project2) - Short description.
+- 🌟 [Cancer Kidney Pridiction](https://github.com/yourusername/project3) - Short description.
 
 ## 🎨 Profile Views
 
